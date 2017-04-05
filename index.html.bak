@@ -15,6 +15,20 @@
 				<p>an introductory paragraph with more information about yourself, 
 					including what things you're passionate about, programming languages you enjoy writing in, etc.</p>
 			</div>
+			<div class="skills">
+				<h3>my skills</h3>
+				<p>I enjoy writing front-end code with these technologies</p>
+				<ul>
+					<li>HTML</li>
+					<li>git</li>
+					<li>Javascript</li>
+				</ul>
+				<div class="contact">
+					<h3>contact me</h3>
+					<p>you can contact me by thinking of me and I will come to you in your dream.</p>
+					<a href="www.126.com">mail box</a>
+				</div>
+			</div>
 	</div>
   Welcome to the HTML Portfolio Project
 
